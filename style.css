@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+   background: linear-gradient(pink, purple);
+}
 .cal{
     height: 600px;
     width: 100%;
